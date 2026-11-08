@@ -1,3 +1,5 @@
+![Dragon AI.ge promotional header](docs/images/dragon-ai-header.png)
+
 # Dragon AI.ge
 
 **Programmable Battle AI for Total War: WARHAMMER III**
