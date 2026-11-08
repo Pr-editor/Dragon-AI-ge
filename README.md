@@ -22,6 +22,16 @@ Build your own tactical instructions using **IF → IS → THEN**.
 
 Each unit can have up to **six prioritized instructions (P1–P6)**, allowing you to create everything from simple commands to more complex battlefield behaviour.
 
+## In-Game Screenshots
+
+![Pr-editor open on the battlefield](docs/images/pr-editor-battlefield.png)
+
+Pr-editor running in battle, allowing unit instructions to be configured inside Total War: WARHAMMER III.
+
+![Pr-editor rule editor close-up](docs/images/pr-editor-rules.png)
+
+Create IF → IS → THEN rules and assign them to unit priorities.
+
 ### Your Army. Your Rules.
 
 **Want hunting dogs that only chase routing enemies?**
